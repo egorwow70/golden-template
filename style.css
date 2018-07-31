@@ -1,0 +1,102 @@
+@font-face {
+    src: url("fonts/montserratbold.ttf");
+    font-family: "montserrat-bold";
+}
+@font-face {
+    src: url("fonts/DroidSerif-Italic.ttf");
+    font-family: "droid-serif-italic";
+}
+@font-face {
+    src: url("fonts/WIldlast.ttf");
+    font-family: "wildlast";
+}
+@font-face {
+    src: url("fonts/Myriad Pro Regular.ttf");
+    font-family: "Myriad Pro Regular";
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;    
+}
+a {
+   text-decoration: none;
+   color: inherit;
+}
+.services {
+    padding: 120px 0;
+    text-align: center;
+}
+.services h2 {
+    margin-bottom: 10px;
+
+    color: #222222;
+    font-family: "montserrat-bold";
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.services h3 {
+    margin-bottom: 70px;
+
+    color: #777777;
+    font-family: "droid-serif-italic";
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.service-list {
+    
+}
+.service-list li {
+    margin: 0px 25px;
+
+    display: inline-block;
+    vertical-align: top;
+    width: 285px;
+}
+.service-list li img {
+    margin-bottom: 20px;
+}
+.service-list li h4 {
+    margin-bottom: 15px;
+    font-family: "montserrat-bold";
+    color: #222222;
+}
+.service-list li p {
+    line-height: 22px;
+    color: #777777;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.golden {
+    padding-top:40px;
+    background-image:url(img/golden.jpg);
+    background-size:cover;
+    height:70vh;
+}
+.logotype {
+    margin-left:16%;
+    width: calc(100% - 32% - 52%);
+    color: #fed136;
+    font-family: 'wildlast', Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    display:inline-block;
+    vertical-align:middle;
+}
+.navigation {
+    margin-right:16%;
+    width:52%;
+    display:inline-block;
+    vertical-align:middle;
+    text-align:right;
+}
+.navigation li {
+    display:inline-block;
+    vertical-align:middle;
+    font-family: 'Myriad Pro Regular', Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    text-transform: uppercase;
+    font-size:12px;
+    margin-left: 20px;
+    letter-spacing:1px;
+}
