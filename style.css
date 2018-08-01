@@ -100,3 +100,28 @@ a {
     margin-left: 20px;
     letter-spacing:1px;
 }
+.welcome {
+    text-align:center;
+    margin-top:180px;
+}
+.welcome h1 {
+    font-family: "droid-serif-italic", Arial, Helvetica, sans-serif;
+    color:#ffffff;
+}
+.welcome h2 {
+    font-family: "montserrat-bold", Arial, Helvetica, sans-serif;
+    color:#ffffff;
+    font-size:70px;
+    text-transform: uppercase;
+    margin-bottom:40px;
+}
+.welcome button {
+    color:#ffffff;
+    text-transform:uppercase;
+    background-color:#fed136;
+    border:2px solid #fed136;
+    border-radius:5px;
+    width:180px;
+    height:60px;
+    font-family: "montserrat-bold", Arial, Helvetica, sans-serif;
+}
