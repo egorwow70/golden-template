@@ -148,7 +148,7 @@ a {
     color:#777777;
 }
 .ebony {
-    margin-bottom:50px;
+    margin-bottom:20px;
 }
 .ebony li {
     display:inline-block;
@@ -157,6 +157,7 @@ a {
 }
 .ebony li {
     display:inline-block;
+    padding-bottom:50px;
 }
 .ebony h4 {
     font-family:"montserrat-bold", Arial, Helvetica, sans-serif;
