@@ -182,7 +182,7 @@ a {
     font-size:40px;
     padding-bottom:10px;
     text-transform:uppercase;
-    columns: #222222;
+    color: #222222;
 }
 .aboutus h3{
     font-family: "droid-serif-italic";
@@ -190,3 +190,38 @@ a {
     color:#777777;
     font-size:16px;
 }
+.table {
+    border-color: #222222;
+    height:1000px;
+}
+.levii {
+    text-align: right;
+}
+.levii h3 {
+    text-transform:uppercase;
+    font-family: "montserrat-bold", Arial, Helvetica, sans-serif;
+    color:#222222;
+    margin-bottom:10px;
+}
+.levii h4 {
+    font-family:"Roboto";
+    color:#777777;
+    font-weight:normal;
+    padding-left:50px;
+}
+.pravii {
+    text-align: left;
+}
+.pravii h3 {
+    text-transform:uppercase;
+    font-family: "montserrat-bold", Arial, Helvetica, sans-serif;
+    color:#222222;
+    margin-bottom:10px;
+}
+.pravii h4 {
+    font-family:"Roboto";
+    color:#777777;
+    font-weight:normal;
+    padding-right:50px;
+}
+
