@@ -1,2 +1,2 @@
 golden-template
-test
+test 2
