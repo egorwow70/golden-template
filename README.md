@@ -1,1 +1,2 @@
 golden-template
+test
